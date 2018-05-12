@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3142
 description: The English edition of this book was published under the title of "A
   Gentleman of Virginia."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13312#The-Light-That-Lures
 gutenberg_issued: '2004-08-28'
 gutenberg_type: Text
 identifiers:
